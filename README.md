@@ -16,6 +16,10 @@ Anime Scraper and Downloader is from my another project, ["Anime Heaven Download
 
 ---
 
+#### Dependencies and Python runtime
+- Python 3.6+
+- `pip install -r requirements.txt`
+
 #### Setting up the automated script
 - First of all you need Google account and create Realtime Database in Firebase
 - Then copy your Realtime Database Endpoint `https://*.firebaseio.com/` to `src/settings/config.py... DOMAIN`
@@ -49,8 +53,6 @@ Anime Scraper and Downloader is from my another project, ["Anime Heaven Download
 #### Automate downloads
 - Upon successfully downloads, the episode number in Firebase will be incremented itself by 1
 - I.e., if episode 4 is downloaded successfully, database episode number will be 5 for next download
-
----
 
 #### Can you make executable program for `X` platform?
 - No, I do not have plan for making executable program at this point as this is more like automated tool to be run on your 24hr machine like on Raspberrry Pi (which I do) or your PC but why tho.. unless you want to turn on PC 24/7
