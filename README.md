@@ -15,6 +15,7 @@ Anime Scraper and Downloader is from my another project, ["Anime Heaven Download
 - **WARN:** never ever touch that source from `downloader` directory, as the code is directly from the project mentioned above and any code changes for downloader should be from there
 
 ---
+<br/>
 
 ### 2. Installation
 #### Dependencies and Python runtime
@@ -30,6 +31,7 @@ Anime Scraper and Downloader is from my another project, ["Anime Heaven Download
 > **PS:** You can amend the code if you want to work with other databases. Database connectors should always be from `db` directory.
 
 ---
+<br/>
 
 ### 3. Usage
 #### Adding new anime to tracker, aka Firebase DB
@@ -52,6 +54,7 @@ Anime Scraper and Downloader is from my another project, ["Anime Heaven Download
 ![firebase screenshot](https://raw.githubusercontent.com/the-robot/anime-auto/master/screenshots/1.png?token=AI5v2i3Enz1Nf2INN7AUzBzYvMxzcc1Lks5b4HoIwA%3D%3D)
 
 ---
+<br/>
 
 ### 4, FYI
 #### Automate downloads
