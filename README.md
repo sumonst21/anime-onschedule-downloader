@@ -60,5 +60,5 @@ Anime Scraper and Downloader is from my another project, "[Anime Heaven Download
 - I.e., if episode 4 is downloaded successfully, database episode number will become 5 for next download
 
 #### Can you make executable program for `X` platform?
-- No, I do not have plan for making executable program at this point as this is more like automated tool to be run on your 24hr machine like on Raspberrry Pi (which I do) or your PC but why tho.. unless you want to turn on PC 24/7
+- No, I do not have plan for making executable program at this point as this is more like automated tool to be run on your 24hr machine like Raspberrry Pi (which I do) or your PC but why tho.. unless you want to turn on PC 24/7
 - If you want simple easy to run downloader, go check "[Anime Heaven Downloader](https://github.com/the-robot/animeheaven-downloader)"
