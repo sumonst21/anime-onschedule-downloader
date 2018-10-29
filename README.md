@@ -47,7 +47,7 @@ Anime Scraper and Downloader is from my another project, ["Anime Heaven Download
 ```
 
 - this is how your Firebase database will be like
-![firebase screenshot](https://raw.githubusercontent.com/the-robot/anime-auto/master/screenshots/1.png)
+![firebase screenshot](https://raw.githubusercontent.com/the-robot/anime-auto/master/screenshots/1.png?token=AI5v2i3Enz1Nf2INN7AUzBzYvMxzcc1Lks5b4HoIwA%3D%3D)
 
 ---
 
