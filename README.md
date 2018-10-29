@@ -8,7 +8,7 @@
 - I haven't added my Celery scripts, because I am thinking of moving to normal Cronjobs way
 
 #### Anime downloader
-Anime Scraper and Downloader is from my another project, ["Anime Heaven Downloader"](https://github.com/the-robot/animeheaven-downloader)
+Anime Scraper and Downloader is from my another project, "[Anime Heaven Downloader"](https://github.com/the-robot/animeheaven-downloader)"
 - Go check that out if you want normal simple anime downloader
 - **WARN:** never ever touch that source from `downloader` directory, as the code is directly from the project mentioned above and any code changes for downloader should be from there
 
@@ -61,4 +61,4 @@ Anime Scraper and Downloader is from my another project, ["Anime Heaven Download
 
 #### Can you make executable program for `X` platform?
 - No, I do not have plan for making executable program at this point as this is more like automated tool to be run on your 24hr machine like on Raspberrry Pi (which I do) or your PC but why tho.. unless you want to turn on PC 24/7
-- If you want simple easy to run downloader, go check [Anime Heaven Downloader](https://github.com/the-robot/animeheaven-downloader)
+- If you want simple easy to run downloader, go check "[Anime Heaven Downloader](https://github.com/the-robot/animeheaven-downloader)"
