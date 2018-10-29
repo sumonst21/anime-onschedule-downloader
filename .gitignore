@@ -1,0 +1,8 @@
+bin/
+include/
+lib/
+__pycache__/
+pip-selfcheck.json
+anime.json
+.Python
+.DS_Store
