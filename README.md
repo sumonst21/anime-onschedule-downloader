@@ -7,6 +7,7 @@
 
 #### Left to be added to project later
 - I haven't added FTP support and Email updates to user's email as I am cleaning up and not very important to use the script
+- I haven't added my Celery scripts, because I am thinking of moving to normal Cronjobs way
 
 #### Anime downloader
 Anime Scraper and Downloader is from my another project, ["Anime Heaven Downloader"](https://github.com/the-robot/animeheaven-downloader)
