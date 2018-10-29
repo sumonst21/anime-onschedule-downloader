@@ -10,7 +10,7 @@
 #### Anime downloader
 Anime Scraper and Downloader is from my another project, "[Anime Heaven Downloader](https://github.com/the-robot/animeheaven-downloader)"
 - Go check that out if you want normal simple anime downloader
-- **WARN:** never ever touch that source from `downloader` directory, as the code is directly from the project mentioned above and any code changes for downloader should be from there
+- **WARNING:** never ever touch that source from `downloader` directory, as the code is directly from the project mentioned above and any code changes for downloader should be from there
 
 ---
 <br/>
