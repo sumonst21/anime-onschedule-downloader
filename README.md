@@ -1,5 +1,4 @@
-## Anime Auto
-
+### 1. Description
 #### Umm, What?
 - This is my own personal automated script to automatically look for new episode and download to local
 - It works with [Firebase](https://firebase.google.com) database to sync episodes (actually do not need it, but I wanted to try Firebase so)
@@ -16,6 +15,7 @@ Anime Scraper and Downloader is from my another project, ["Anime Heaven Download
 
 ---
 
+### 2. Installation
 #### Dependencies and Python runtime
 - Python 3.6+
 - `pip install -r requirements.txt`
@@ -30,6 +30,7 @@ Anime Scraper and Downloader is from my another project, ["Anime Heaven Download
 
 ---
 
+### 3. Usage
 #### Adding new anime to tracker, aka Firebase DB
 - create `anime.json` in `src`, then write something like below
 - then run `python sync.py --force` to force sync the anime
@@ -51,6 +52,7 @@ Anime Scraper and Downloader is from my another project, ["Anime Heaven Download
 
 ---
 
+### 4, FYI
 #### Automate downloads
 - Upon successfully downloads, the episode number in Firebase will be incremented itself by 1
 - I.e., if episode 4 is downloaded successfully, database episode number will be 5 for next download
