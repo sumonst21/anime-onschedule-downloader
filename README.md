@@ -3,8 +3,6 @@
 - This is my own personal automated script to automatically look for new episode and download to local
 - It works with [Firebase](https://firebase.google.com) database to sync episodes (actually do not need it, but I wanted to try Firebase so)
 
-> Check below for how to setup this in your own system
-
 #### TODO
 - I haven't added FTP support and Email updates to user's email as I am cleaning up and not very important to use the script
 - I haven't added my Celery scripts, because I am thinking of moving to normal Cronjobs way
