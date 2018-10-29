@@ -6,12 +6,8 @@
 
 > Check below for how to setup this in your own system
 
-<br/>
-
 #### Left to be added to project later
 - I haven't added FTP support and Email updates to user's email as I am cleaning up the code and not very important to use the script
-
-<br/>
 
 #### Anime downloader
 Anime Scraper and Downloader is from my another project, ["Anime Heaven Downloader"](https://github.com/the-robot/animeheaven-downloader)
@@ -56,5 +52,6 @@ Anime Scraper and Downloader is from my another project, ["Anime Heaven Download
 
 ---
 
-#### What about....?
-- I do not have plan for making executable program or whatever as this is more like automated tool to be run on your 24hr machine like on Raspberrry Pi (which I do) or your PC but why tho.. unless you want to turn on PC 24/7
+#### Can you make executable program for `X` platform?
+- No, I do not have plan for making executable program at this point as this is more like automated tool to be run on your 24hr machine like on Raspberrry Pi (which I do) or your PC but why tho.. unless you want to turn on PC 24/7
+- If you want simple easy to run downloader, go check [Anime Heaven Downloader](https://github.com/the-robot/animeheaven-downloader)
