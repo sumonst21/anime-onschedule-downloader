@@ -57,7 +57,7 @@ Anime Scraper and Downloader is from my another project, "[Anime Heaven Download
 ### 4. FYI
 #### Automate downloads
 - Upon successfully downloads, the episode number in Firebase will be incremented itself by 1
-- I.e., if episode 4 is downloaded successfully, database episode number will be 5 for next download
+- I.e., if episode 4 is downloaded successfully, database episode number will become 5 for next download
 
 #### Can you make executable program for `X` platform?
 - No, I do not have plan for making executable program at this point as this is more like automated tool to be run on your 24hr machine like on Raspberrry Pi (which I do) or your PC but why tho.. unless you want to turn on PC 24/7
