@@ -5,7 +5,7 @@
 
 > Check below for how to setup this in your own system
 
-#### Left to be added to project later
+#### TODO
 - I haven't added FTP support and Email updates to user's email as I am cleaning up and not very important to use the script
 - I haven't added my Celery scripts, because I am thinking of moving to normal Cronjobs way
 
