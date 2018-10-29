@@ -56,7 +56,7 @@ Anime Scraper and Downloader is from my another project, ["Anime Heaven Download
 ---
 <br/>
 
-### 4, FYI
+### 4. FYI
 #### Automate downloads
 - Upon successfully downloads, the episode number in Firebase will be incremented itself by 1
 - I.e., if episode 4 is downloaded successfully, database episode number will be 5 for next download
